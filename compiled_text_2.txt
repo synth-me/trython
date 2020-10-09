@@ -1,0 +1,11 @@
+|>function_0 :: str , str -> str 
+def function_0(x,y)|> 
+    l = x+'a' 
+    v = y+'b'
+    print(v)
+    return l+v
+end
+
+main = do
+    function_1('a','b')
+
